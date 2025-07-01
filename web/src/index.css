@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Nexa-Book';
+  src: url('./fonts/Nexa-Book.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html, body {
+    color-scheme: normal !important;
+    background-color: transparent !important;
+    color: inherit;
+}
