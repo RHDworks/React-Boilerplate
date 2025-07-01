@@ -11,6 +11,7 @@ use_experimental_fxv2_oal 'yes'
 ui_page 'web/build/index.html'
 
 shared_scripts {
+	'@ox_lib/init.lua',
 	'shared/*.lua'
 }
 
